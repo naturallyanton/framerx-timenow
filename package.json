@@ -1,0 +1,20 @@
+{
+  "main": "build/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.0.31",
+    "framer": "^0.8.1"
+  },
+  "peerDependencies": {
+    "framer": "^0.8.1",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  },
+  "framer": {
+    "id": "5f4830a7-8b21-4aac-9770-15bb9081ddeb"
+  },
+  "author": "Anton Petrov",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}

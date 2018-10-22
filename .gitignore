@@ -1,0 +1,6 @@
+node_modules
+.backups
+build
+design
+package-lock.json
+code/canvas.tsx
