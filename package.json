@@ -1,6 +1,13 @@
 {
   "main": "build/index.js",
   "license": "MIT",
+  "keywords": [
+    "date",
+    "time",
+    "hour",
+    "moment",
+    "clock"
+  ],
   "devDependencies": {
     "@types/react": "^16.0.31",
     "framer": "^0.8.1"
