@@ -26,5 +26,5 @@
 		"moment": "^2.22.2"
 	},
 	"name": "@framer/apetrov.timenow",
-	"version": "1.0.0"
+	"version": "1.1.0"
 }
