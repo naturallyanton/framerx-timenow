@@ -7,7 +7,7 @@ export const formats = [
   'DD/MM/YYYY',
   'MM/DD/YYYY',
   'DD-MM',
-  'DD MMM. YYYY',
+  'DD MMM YYYY',
   'LL',
   'LLL',
   'LLLL',
